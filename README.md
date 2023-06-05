@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SwiftUI** <img align="right" style="width:25rem; height:auto" src="https://github.com/nat-cesarino/nat-cesarino/assets/27686439/4deca940-3d37-4a4b-b3b0-8f54e6727714"/>
 
-- 🤝 I’m looking for help with **AI in iOS apps**
+- 🤝 I’m looking for help with **AI and ARKIT**
 
 - 💬 Ask me about **NBA and Investments 😆**
 
