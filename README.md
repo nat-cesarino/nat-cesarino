@@ -31,9 +31,11 @@
 </div>
 
 ---
-### My Stats :
+### Social :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat-cesarino&show_icons=true&count_private=true&theme=panda&include_all_commits=true)
+<a href="https://linkedin.com/in/nathalie-pires-cesarino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathalie-pires-cesarino" height="30" width="40" /></a>
+<a href="https://dribbble.com/nat_cesarino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nat_cesarino" height="30" width="40" /></a>
+</p>
 
 <!--
 
