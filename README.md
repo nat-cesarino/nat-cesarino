@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for help with **AI and ARKIT**
 
-- 💬 Ask me about **NBA and Investments 😆**
-
-- ⚡ Fun fact: **Coding is a passion and not a profession**
-
 ---
 ### Languages and Tools :
 
