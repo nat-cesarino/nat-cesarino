@@ -5,7 +5,7 @@
 
 - 👯 I’m currently working as an **iOS developer at an edtech**
 
-- 🌱 I was a PM before being a dev which made me obsessed by users <img align="right" style="width:25rem; height:auto" src="https://github.com/nat-cesarino/nat-cesarino/assets/27686439/4deca940-3d37-4a4b-b3b0-8f54e6727714"/>
+- 🌱 I was a PM before being a dev which made me **obsessed by users** <img align="right" style="width:25rem; height:auto" src="https://github.com/nat-cesarino/nat-cesarino/assets/27686439/4deca940-3d37-4a4b-b3b0-8f54e6727714"/>
 
 - 🤝 I’m curious about **AI and ARKIT**
 
